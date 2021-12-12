@@ -20,11 +20,11 @@ https://alcun.github.io/John-Martyn-Tribute-Page/
 
 
 CURRENT VERSION:
-Working tribute page with pictures, lyrics and link to biography
+Working tribute page with pictures, video lyrics and link to biography
 
 
 TO DO:
 
-Reconfigure repository and 'git pages' so I can display individual projects (fix 404 error)
-
 Perhaps add some more pictures/layout/interview/audio
+
+TEST
